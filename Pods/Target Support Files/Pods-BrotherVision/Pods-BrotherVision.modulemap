@@ -1,0 +1,6 @@
+framework module Pods_BrotherVision {
+  umbrella header "Pods-BrotherVision-umbrella.h"
+
+  export *
+  module * { export * }
+}
